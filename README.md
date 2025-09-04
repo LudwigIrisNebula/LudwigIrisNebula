@@ -1,6 +1,6 @@
 ### About me
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ludwig🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
-- Hi, I’m Ludwig7023
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Snöprinsen🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+- Hi, I’m Snöprinsen
 - 🌱 I’m currently learning AI and ESL
 - 🎮 My favorite game is Minecraft
 - 🍂 I used to love drawing, now I like cyptography,astronomy,math and computer programs
