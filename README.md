@@ -1,6 +1,6 @@
 ### About me
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Snöprinsen🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
-- Hi, I’m Snöprinsen
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=HD200775🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+- Hi, I’m HD200775 B
 - 🍂 An ordinary person, yearning to flee from it all.
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
