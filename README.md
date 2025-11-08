@@ -1,6 +1,16 @@
 ### About me
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ludwig🌻&width=800&height=120)](https://github.com/Akshay090/svg-banners)
-- 🍂 An ordinary person, yearning to flee from it all.
+- 🍂
+
+## Who am I?
+ ```JavaSCript
+const readMe = {
+    name: "Ludwig",
+    position: "ML, Software/Game Development, Cryptography",
+    languages: ["Chinese", "English", "German", "French"],
+    hobbies: ["astronomy", "pattern", "minecraft", "statistics", "neuro", "learning languages"]
+};
+```
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
