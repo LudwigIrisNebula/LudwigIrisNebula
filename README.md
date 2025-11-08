@@ -5,7 +5,7 @@
 name = "Ludwig"
 languages = ["English", "Chinese", "German", "French"]
 position = "ML, Software/Game Development, Cryptography"
-hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read magazines", "classical music"]
+hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read magazines"]
 ```
 
 
