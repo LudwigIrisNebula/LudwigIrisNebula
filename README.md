@@ -1,8 +1,8 @@
 ### About me
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ludwig🌻&width=800&height=120)](https://github.com/Akshay090/svg-banners)
-- 🍂 About Me - curious, deliberate & quietly resilient
+- 🍂 About Me
+  curious, deliberate & quietly resilient
 
-## Who am I?
 ```python
 name = "Ludwig"
 languages = ["Chinese", "English", "German", "French"]
