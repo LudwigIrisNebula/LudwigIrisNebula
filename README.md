@@ -1,5 +1,5 @@
 ### About me
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi, I’m%20Ludwig🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ludwig🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 - 🍂 An ordinary person, yearning to flee from it all.
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
