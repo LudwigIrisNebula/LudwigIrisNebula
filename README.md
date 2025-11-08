@@ -4,10 +4,12 @@
 - How to reach me: LudwigIrisNebula@{inbox.ru}
 
 ## Who am I?
-name: "Ludwig",
-position: "ML, Software/Game Development, Cryptography",
-languages: ["Chinese", "English", "German", "French"],
-hobbies: ["astronomy", "pattern", "minecraft", "statistics", "neuro", "learning languages"]
+```python
+name = "Ludwig"
+languages = ["Chinese", "English", "German", "French"]
+position = "ML, Software/Game Development, Cryptography"
+hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read magazines"]
+```
 
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
