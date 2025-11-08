@@ -3,9 +3,9 @@
 
 ```python
 name = "Ludwig"
-languages = ["Chinese", "English", "German", "French"]
+languages = ["English", "Chinese", "German", "French"]
 position = "ML, Software/Game Development, Cryptography"
-hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read magazines"]
+hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read magazines", "classical music"]
 ```
 
 
