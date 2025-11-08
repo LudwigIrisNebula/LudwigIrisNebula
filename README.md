@@ -1,7 +1,5 @@
 ### About me
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ludwig🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
-- Hi, I’m Ludwig
-- 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi, I’m Ludwig🌻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 - 🍂 An ordinary person, yearning to flee from it all.
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
@@ -10,6 +8,5 @@
 Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Kotlin](https://img.shields.io/badge/-C-000?&logo=Kotlin)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LudwigIrisNebula&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
