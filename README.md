@@ -12,8 +12,8 @@ hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read mag
 ```
 
 
-![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+// ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
+// ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
 Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
