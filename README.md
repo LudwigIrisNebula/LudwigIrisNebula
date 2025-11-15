@@ -16,7 +16,7 @@ hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read mag
 ##### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8A6D3B)
 ![VS](https://img.shields.io/badge/VS-000000?style=for-the-badge&logo=visual-studio&logoColor=8A6D3B)
-![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-atudio&logoColor=8A6D3B)
+![Android Studio](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=android-atudio&logoColor=000000)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
