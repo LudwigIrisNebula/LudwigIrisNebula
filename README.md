@@ -8,12 +8,12 @@ position = "ML, Software/Game Development, Cryptography"
 hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read magazines"]
 ```
 
-##### �Languages
+##### �?= Languages
 ![Python](https://img.shields.io/badge/-Python-163069?&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-163069?&logo=C&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-163069?&logo=Kotlin&logoColor=whiten)
 
-##### Tools & Platforms
+##### �?= Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8A6D3B)
 ![VS](https://img.shields.io/badge/VS-000000?style=for-the-badge&logo=visual-studio&logoColor=8A6D3B)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=android-studio&logoColor=000000)
