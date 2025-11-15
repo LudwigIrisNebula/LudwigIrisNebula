@@ -9,15 +9,15 @@ hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read mag
 ```
 
 
-### Languages
+#### Languages
 ![Python](https://img.shields.io/badge/-Python-163069?&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-163069?&logo=C&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-163069?&logo=Kotlin&logoColor=whiten)
 
-### Tools & Platforms
+#### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8A6D3B)
-![VS](https://img.shields.io/badge/VS-000000?style=for-the-badge&logo=visual-studio&logoColor=8A6D3B)
-![Android Studio](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=android-studio&logoColor=000000)
+![Visual Studio](https://img.shields.io/badge/VS-000000?style=for-the-badge&logo=visual-studio&logoColor=8A6D3B)
+![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
