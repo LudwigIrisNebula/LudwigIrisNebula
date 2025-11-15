@@ -15,7 +15,7 @@ hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read mag
 �Languages:
 ![Python](https://img.shields.io/badge/-Python-004080?&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-004080?&logo=C&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-004080?&logo=Kotli&logoColor=whiten)
+![Kotlin](https://img.shields.io/badge/-Kotlin-004080?&logo=Kotlin&logoColor=whiten)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LudwigIrisNebula&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
