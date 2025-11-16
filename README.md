@@ -15,9 +15,8 @@ hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read mag
 ![Kotlin](https://img.shields.io/badge/-Kotlin-163069?&logo=Kotlin&logoColor=whiten)
 
 #### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8A6D3B)
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-%23000000.svg?style=flat-square&logo=Android_Studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23000000.svg?style=flat-square&logo=visual-studio-code&logoColor=8A6D3B)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%23000000.svg?style=flat-square&logo=android_studio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23000000.svg?style=flat-square&logo=visual_studio&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23000000.svg?style=flat-square&logo=obsidian&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=flat-square&logo=Kaggle&logoColor=white)
