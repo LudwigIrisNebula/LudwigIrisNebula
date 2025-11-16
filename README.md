@@ -18,7 +18,12 @@ hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read mag
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8A6D3B)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=8A6D3B)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23000000.svg?style=flat-square&logo=visual_studio&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23000000.svg?style=flat-square&logo=obsidian&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=flat-square&logo=Kaggle&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=flat-square&logo=Hack%20The%20Box&logoColor=white)
+
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
