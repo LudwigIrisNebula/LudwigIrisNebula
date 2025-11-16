@@ -15,11 +15,11 @@ hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read mag
 ![Kotlin](https://img.shields.io/badge/-Kotlin-163069?&logo=Kotlin&logoColor=whiten)
 
 #### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-%23000000.svg?style=flat-square&logo=visual-studio-code&logoColor=8A6D3B)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%23000000.svg?style=flat-square&logo=android_studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23000000.svg?style=flat-square&logo=visual_studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23000000.svg?style=flat-square&logo=visual_studio_code&logoColor=8A6D3B)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-%23000000.svg?style=flat-square&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23000000.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23000000.svg?style=flat-square&logo=obsidian&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=flat-square&logo=Kaggle&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%23000000.svg?style=flat-square&logo=Kaggle&logoColor=blue)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=flat-square&logo=Hack%20The%20Box&logoColor=9FEF00)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LudwigIrisNebula&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
