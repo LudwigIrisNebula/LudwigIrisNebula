@@ -2,7 +2,7 @@
 - curious, deliberate & quietly resilient
 
 ```python
-name = "Ludwig"
+name = "Ludwig" # or Ludviko
 languages = ["English", "Chinese", "German", "French", "Esperanto"]
 position = "ML, Software/Game Development, Cryptography"
 hobbies = ["astronomy", "pattern", "minecraft", "statistics", "neuro", "read magazines"]
